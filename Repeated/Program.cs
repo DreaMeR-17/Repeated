@@ -45,7 +45,7 @@ namespace Repeated
                 }
             }
 
-            Console.WriteLine($"\nЧисло {currentValue} повторяется {maxNumbersRepeat} раз");
+            Console.WriteLine($"\nЧисло {currentValue} повторяется {maxNumbersRepeat} раз(а)");
         }
     }
 }
