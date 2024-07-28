@@ -25,6 +25,8 @@ namespace Repeated
                 Console.Write($"{numbers[i]} ");
             }
 
+            Console.WriteLine();
+
             for (int i = 0; i < numbers.Length - 1; i++)
             {
                 if (numbers[i] == numbers[i + 1])
